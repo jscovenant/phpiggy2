@@ -1,0 +1,12 @@
+{
+    "name": "pc/phpiggy",
+    "description": "A PHP project from tracking items",
+    "type": "project",
+    "authors": [
+        {
+            "name": "jscovenant",
+            "email": "78218146+jscovenant@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
